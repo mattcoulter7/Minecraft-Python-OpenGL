@@ -1,5 +1,5 @@
 # Minecraft-Python-OpenGL
-https://youtu.be/-vuVELqd7lA
+https://youtu.be/-vuVELqd7lA A Simple Minecraft Rendering System in Python
 
 ## Dependencies
 - pyglet == 1.4.11
